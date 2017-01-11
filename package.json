@@ -1,6 +1,6 @@
 {
   "name": "@typed/filter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Well-typed filtering :fire:",
   "main": "lib/index.js",
   "scripts": {
